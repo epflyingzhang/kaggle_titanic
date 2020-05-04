@@ -20,3 +20,4 @@ In this exercise, I did the following:
 In order to improve the performance of the machine learning model, I borrowed ideas from some articles online.
 
 - [Kaggle Titanic 生存预测 -- 详细流程吐血梳理](https://zhuanlan.zhihu.com/p/31743196)
+- [Predicting the Survival of Titanic Passengers](https://towardsdatascience.com/predicting-the-survival-of-titanic-passengers-30870ccc7e8)
