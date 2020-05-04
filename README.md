@@ -9,7 +9,7 @@ In this exercise, I did the following:
 - **EDA** (Exploratory Data Analysis): analyzed the dataset by calculating statistics and visualization (bar charts, point charts, etc.).  
 - **Feature Engineering**: extracted additional features from the raw data and handled missing data in different ways.
 - **Modeling**: modeled data using classic machine learning algorithms including *Logistic Regression*, *Random Forest*, *KNN* and *XGBOOST*; used *cross validation* and *grid search* methods to tune model hyperparameters; and compared performance of different models.
-- **Prediction**: generated prediction on test dataset and submitted prediction on Kaggle. I achieved an accuracy score of 77.5%.
+- **Prediction**: generated prediction on test dataset and submitted prediction on Kaggle. I achieved an accuracy score of 77.5%, using XGBOOST with simple features. 
 
 
 ## Tools
